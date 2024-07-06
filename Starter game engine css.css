@@ -1,0 +1,16 @@
+#player {
+            position: absolute;
+            height: 100px;
+            width: 100px;
+            top: 600px;
+            left: 300px;
+        }
+        
+         #block {
+            position: absolute;
+            height: 100px;
+            width: 100px;
+            top: 500px;
+            left: 900px;
+            background-color: rgb(255, 0, 0);
+        }
